@@ -1,0 +1,3 @@
+Nombre = string, nombre de la columna del producto, en este caso las tejas. \n
+Precio = string, nombre de la columna del precio del producto. \n
+Precio por m2 = string, nombre de la columna de los precios de las tejas por metro cuadrado. 
